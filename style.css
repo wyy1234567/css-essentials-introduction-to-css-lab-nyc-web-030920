@@ -7,9 +7,9 @@ body {
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
 div {
   /* Your code here! */
-  width: 700px
-  margin: auto
-  font-family: 
+  width: 700px;
+  margin: auto;
+  font-family: Helvetica Neue;
   
 }
 
